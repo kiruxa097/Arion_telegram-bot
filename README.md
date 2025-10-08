@@ -1,4 +1,4 @@
-![Arion Logo](Arion Bot.jpg)
+![Arion Logo](https://github.com/kiruxa097/Arion_telegram-bot/blob/main/Arion%20Bot.jpg)
 # Arion — Al-помщник в Telegram
 
 **Проект**: AI-помощник в Telegram с использованием OpenAL API/ChatGPT API.
